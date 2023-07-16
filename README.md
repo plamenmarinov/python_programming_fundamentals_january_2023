@@ -1,0 +1,2 @@
+# python_programming_fundamentals_january_2023
+All tasks from SoftUni Python Programming Fundamentals Course
